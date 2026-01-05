@@ -8,7 +8,7 @@ namespace My_practice
         {
             Console.WriteLine("Hello Master!");
 
-            Console.WriteLine("how are you doing");
+            Console.WriteLine("How Are You Doing");
         }
     }
 }
