@@ -6,7 +6,7 @@ namespace My_practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Bhai!");
+            Console.WriteLine("Hello Master!");
 
             Console.WriteLine("how are you doing");
         }
